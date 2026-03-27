@@ -1,6 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit'
 import { addHours } from 'date-fns';
-import React from 'react'
 
 interface MyEventK {
     _id: string;
